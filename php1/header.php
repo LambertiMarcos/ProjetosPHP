@@ -32,7 +32,7 @@
         <a class="nav-link" href="copy.php">Copiar</a>
     </li>
     <li class="nav-item">
-        <a class="nav-link" href="receiver.php">Upload</a>
+        <a class="nav-link" href="array.php">Array</a>
     </li>
     </ul>
 </div>
