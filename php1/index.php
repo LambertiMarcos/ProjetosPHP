@@ -4,11 +4,12 @@ session_start();// para trabalhar com sessão
 
 require('header.php');
 
-// mostrar o aviso da sessão
+// mostrar o aviso da sessão descrito no action_page
 if($_SESSION['aviso']){
     echo $_SESSION['aviso'];
     $_SESSION['aviso'] = '';
 }
+unset($_SESSION['ERR_LOGIN']);
 
 ?>
 <!-- Início do HTML -->

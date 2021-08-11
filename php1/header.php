@@ -34,6 +34,15 @@
     <li class="nav-item">
         <a class="nav-link" href="array.php">Array</a>
     </li>
+    <li class="nav-item">
+        <a class="nav-link" href="classes.php">Classes</a>
+    </li>
+    <li class="nav-item">
+        <a class="nav-link" href="nameSpace.php">NameSpace</a>
+    </li>
+    <li class="nav-item">
+        <a class="nav-link" href="autoLoad.php">AutoLoad</a>
+    </li>
     </ul>
 </div>
 
